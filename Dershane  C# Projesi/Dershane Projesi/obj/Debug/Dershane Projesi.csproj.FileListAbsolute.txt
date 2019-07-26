@@ -1,0 +1,317 @@
+C:\Users\CemiL\Desktop\Dershane Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_personel.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_resimGaleri.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\ResolveAssemblyReference.cache
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_resimGaleri.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\GenerateResource.read.1.tlog
+H:\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_resimGaleri.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\CemiL\Desktop\instal\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtüt.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\instal\son halinden bi oncecki hocaya gortermedigim\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\CemiL\Desktop\Projem\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form1.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\Yeni klasör\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\CemiL\Desktop\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojResolveAssemblyReference.cache
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+E:\pppppppp\en son hali projenin burdan dewam ederisn\Dershane  C# Projesi\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.Cache
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe.config
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.exe
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\bin\Debug\Dershane Projesi.pdb
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csprojAssemblyReference.cache
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_bolumKayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_dersKayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ders_grup_sinif_bolumKayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_fotoGaleri.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_hakkında.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Duzen.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitEkle.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_notKayitGoster.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Bilgi.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_ogrenciEtut.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Listeler.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Ode.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_anaSayfa.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Kullanici_Giris.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Arama.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Devamsizlik.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Kayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Sinav.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Ogrenci_Taksit_Plan.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_danismanKayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_Personel.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_puanHesaplama.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Form_sinifKayit.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane_Projesi.Properties.Resources.resources
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.GenerateResource.cache
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.exe
+C:\Users\AnıYaSa\Desktop\Projeler\Üni. Proje\Dershane  C# Projesi\Dershane Projesi\obj\Debug\Dershane Projesi.pdb

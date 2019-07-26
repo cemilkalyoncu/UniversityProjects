@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA99CF36-0136-4DCE-A725-F6B0198B2A4F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dershane_Projesi</RootNamespace>
+    <AssemblyName>Dershane Projesi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A_Genel.cs" />
+    <Compile Include="Form_danismanKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_danismanKayit.Designer.cs">
+      <DependentUpon>Form_danismanKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_hakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_hakkında.Designer.cs">
+      <DependentUpon>Form_hakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciEtut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciEtut.Designer.cs">
+      <DependentUpon>Form_ogrenciEtut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_bolumKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_bolumKayit.Designer.cs">
+      <DependentUpon>Form_bolumKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_dersKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_dersKayit.Designer.cs">
+      <DependentUpon>Form_dersKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ders_grup_sinif_bolumKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ders_grup_sinif_bolumKayit.Designer.cs">
+      <DependentUpon>Form_ders_grup_sinif_bolumKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_grupKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_grupKayit.Designer.cs">
+      <DependentUpon>Form_grupKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_kullaniciDuzen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_kullaniciDuzen.Designer.cs">
+      <DependentUpon>Form_kullaniciDuzen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_notKayitEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_notKayitEkle.Designer.cs">
+      <DependentUpon>Form_notKayitEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_notKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_notKayit.Designer.cs">
+      <DependentUpon>Form_notKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_notKayitGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_notKayitGoster.Designer.cs">
+      <DependentUpon>Form_notKayitGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenci.Designer.cs">
+      <DependentUpon>Form_ogrenci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciListeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciListeler.Designer.cs">
+      <DependentUpon>Form_ogrenciListeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciTaksitOde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciTaksitOde.Designer.cs">
+      <DependentUpon>Form_ogrenciTaksitOde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciArama.Designer.cs">
+      <DependentUpon>Form_ogrenciArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciDevamsizlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciDevamsizlik.Designer.cs">
+      <DependentUpon>Form_ogrenciDevamsizlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciKayit.Designer.cs">
+      <DependentUpon>Form_ogrenciKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_anaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_anaSayfa.Designer.cs">
+      <DependentUpon>Form_anaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_kullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_kullaniciGiris.Designer.cs">
+      <DependentUpon>Form_kullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciSinav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciSinav.Designer.cs">
+      <DependentUpon>Form_ogrenciSinav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenciTaksitPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenciTaksitPlan.Designer.cs">
+      <DependentUpon>Form_ogrenciTaksitPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_personel.Designer.cs">
+      <DependentUpon>Form_personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_puanHesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_puanHesaplama.Designer.cs">
+      <DependentUpon>Form_puanHesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_sinifKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_sinifKayit.Designer.cs">
+      <DependentUpon>Form_sinifKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_bolumKayit.resx">
+      <DependentUpon>Form_bolumKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_dersKayit.resx">
+      <DependentUpon>Form_dersKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ders_grup_sinif_bolumKayit.resx">
+      <DependentUpon>Form_ders_grup_sinif_bolumKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_grupKayit.resx">
+      <DependentUpon>Form_grupKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_hakkında.resx">
+      <DependentUpon>Form_hakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_kullaniciDuzen.resx">
+      <DependentUpon>Form_kullaniciDuzen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_notKayit.resx">
+      <DependentUpon>Form_notKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_notKayitEkle.resx">
+      <DependentUpon>Form_notKayitEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_notKayitGoster.resx">
+      <DependentUpon>Form_notKayitGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenci.resx">
+      <DependentUpon>Form_ogrenci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciEtut.resx">
+      <DependentUpon>Form_ogrenciEtut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciListeler.resx">
+      <DependentUpon>Form_ogrenciListeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciTaksitOde.resx">
+      <DependentUpon>Form_ogrenciTaksitOde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_anaSayfa.resx">
+      <DependentUpon>Form_anaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_kullaniciGiris.resx">
+      <DependentUpon>Form_kullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciArama.resx">
+      <DependentUpon>Form_ogrenciArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciDevamsizlik.resx">
+      <DependentUpon>Form_ogrenciDevamsizlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciKayit.resx">
+      <DependentUpon>Form_ogrenciKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciSinav.resx">
+      <DependentUpon>Form_ogrenciSinav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenciTaksitPlan.resx">
+      <DependentUpon>Form_ogrenciTaksitPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_danismanKayit.resx">
+      <DependentUpon>Form_danismanKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_personel.resx">
+      <DependentUpon>Form_personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_puanHesaplama.resx">
+      <DependentUpon>Form_puanHesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_sinifKayit.resx">
+      <DependentUpon>Form_sinifKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\abstract_desktop_1280x800_wallpaper-446736.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\giris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\icerik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\icessrik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\icsdserik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\solpanel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\water_abstract_desktop_1920x1080_hd-wallpaper-826035.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\öğrenci_kayıtları.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\convert\onay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\ara2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\isle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\yeni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\giris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\solpanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\iconlar\sınav_isle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Security.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Console.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Drawing App.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Document-Generic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Network-Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Folder-Applications.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Document-Applications.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Blender.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\wmp 11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ouvert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Activity Monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Script Editor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Text Editor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Script Editor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Pixadex.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Text Editor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Stickies.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Sites.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\User.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\User.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Security.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Documents.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Documents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Notepad.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Pictures.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Printer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Pictures.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Notepad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\Stickies.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ico\Burn.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
